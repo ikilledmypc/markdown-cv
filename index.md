@@ -1,91 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tim Smeets' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tim Smeets
+Software Engineer, Maker/hacker, Photographer, IoT gardener
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="timsmeets@rocketmail.com">timsmeets@rocketmail.com</a>
+| <a href="http://timsmeets.nl">www.timsmeets.nl</a>
+| <a>+31 633814886</a>
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`February 2017 - May 2017`
+__Trifork - Software Engineer__
+ - Worked primarily on features and bugfixes for klachtenkompas.nl
+ - `Java, Spring, Axon, Docker, MongoDB, React.js, Kubernetes, NodeJs`
+
+`September 2016 - January 2017`
+__Trifork - Internship__
+
+- Worked in a multi disciplinary team to develop a prototype foot based data gathering and localization system for sports
+- `Java, Spring, LMAX-Disruptor, Docker, MongoDB, Angular.js, NodeJs, ELK-stack`
+
+`July 2016 - August 2016`
+__Trifork - Junior Software Engineer__
+
+- Worked in a multi disciplinary team to develop a prototype foot based data gathering and localization system for sports
+- `Java, Spring, LMAX-Disruptor, Docker, MongoDB, Angular.js, NodeJs, ELK-stack`
+
+`February 2015 - June 2015`
+__Desk Content Marketing - Internship__
+
+- Developing a prototype of a document publishing system and connected reading app for android
+- `C#, MVC5, Entity Framework, MSSQL, Android`
+
+## Preferred technologies
+
+*Java, Javascript, NodeJs, MongoDB, Spring, Docker, Linux, Jenkins, Git*
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2017`
+__Technische Universiteit Eindhoven__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+  - pre-master, Information Security Technology
+  - Did not finish
 
-- Sizar
+`2013-2017`
+__Fontys Hogeschool Eindhoven__
 
-`1667 - death`
-__Trinity College, Cambridge__
+  - Bachelor's degree ICT and Software engineering
+  - Minor in Embedded Systems
 
-- Fellow
+`2012-2013`
+__HAN Nijmegen__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- ICT
+- Switched to Fontys after first year
 
 
+## Certificates
 
-## Publications
+**TOEFL iBT** Score: **113**
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Minor Embedded Systems - Fontys**
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
