@@ -32,7 +32,7 @@ __Trifork - Software Engineer__
 `September 2016 - January 2017`
 __Trifork - Internship: research visualization options for Smartfloor__
 
-- Worked in a multi disciplinary team to develop a prototype foot based data gathering and localization system for sports
+- During my Internship I researched on how to improve the Smartfloor project and gathered requirements for the visual aspect of the application
 - `Java, Spring, LMAX-Disruptor, Docker, MongoDB, Angular.js, NodeJs, ELK-stack`
 
 `July 2016 - August 2016`
