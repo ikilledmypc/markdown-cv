@@ -15,13 +15,13 @@ Software Engineer, Maker/hacker, Photographer, Smart Gardener
 
 ## About me
 
-Hi I'm Tim, a Software Developer focused on Java/JavaScript, interested in IoT projects and Security, looking for a new Opportunity.
+Hi I'm Tim, a Software Developer and maker by heart interested in innovative projects and Security.
 
 ## Experience
 
 `January 2018 - current`
 __Valtech - Software Engineer__
- - Worked on Jumbo site, Shimano platform brand sites
+ - Worked on Shimano platform brand sites, Jumbo site, innovation projects and involved in assisting students at Fontys through company partnership
  - `Java, Adobe AEM, Docker, Sling, OSGI`
 
 `February 2017 - May 2017`
@@ -30,13 +30,13 @@ __Trifork - Software Engineer__
  - `Java, Spring, Axon, Docker, MongoDB, React.js, Kubernetes, NodeJs`
 
 `September 2016 - January 2017`
-__Trifork - Internship__
+__Trifork - Internship: research visualization options for Smartfloor__
 
 - Worked in a multi disciplinary team to develop a prototype foot based data gathering and localization system for sports
 - `Java, Spring, LMAX-Disruptor, Docker, MongoDB, Angular.js, NodeJs, ELK-stack`
 
 `July 2016 - August 2016`
-__Trifork - Junior Software Engineer__
+__Trifork - Junior Software Engineer - Smartfloor.com__
 
 - Worked in a multi disciplinary team to develop a prototype foot based data gathering and localization system for sports
 - `Java, Spring, LMAX-Disruptor, Docker, MongoDB, Angular.js, NodeJs, ELK-stack`
@@ -50,6 +50,9 @@ __Desk Content Marketing - Internship__
 ## Preferred technologies
 
 *Java, Javascript, NodeJs, MongoDB, Spring, Docker, Linux, Jenkins, Git*
+
+## Interests
+*Electrical engineering, 3d printing, hydroponics, Software, photography, Linux
 
 
 ## Education
