@@ -52,7 +52,7 @@ __Desk Content Marketing - Internship__
 *Java, Javascript, NodeJs, MongoDB, Spring, Docker, Linux, Jenkins, Git*
 
 ## Interests
-*Electrical engineering, 3d printing, hydroponics, Software, photography, Linux
+*Electrical engineering, Security, 3d printing, hydroponics, Software, photography, Linux*
 
 
 ## Education
