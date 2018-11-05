@@ -3,22 +3,26 @@ layout: cv
 title: Tim Smeets' CV
 ---
 # Tim Smeets
-Software Engineer, Maker/hacker, Photographer, IoT gardener
+Software Engineer, Maker/hacker, Photographer, Smart Gardener
 
 <div id="webaddress">
 <a href="timsmeets@rocketmail.com">timsmeets@rocketmail.com</a>
 | <a href="http://timsmeets.nl">www.timsmeets.nl</a>
+| <a href="https://github.com/ikilledmypc">https://github.com/ikilledmypc</a>
 | <a>+31 633814886</a>
 </div>
 
 
 ## About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
+Hi I'm Tim, a Software Developer focused on Java/JavaScript, interested in IoT projects and Security, looking for a new Opportunity.
 
 ## Experience
+
+`January 2018 - current`
+__Valtech - Software Engineer__
+ - Worked on Jumbo site, Shimano platform brand sites
+ - `Java, Adobe AEM, Docker, Sling, OSGI`
 
 `February 2017 - May 2017`
 __Trifork - Software Engineer__
@@ -53,7 +57,7 @@ __Desk Content Marketing - Internship__
 `2017-2017`
 __Technische Universiteit Eindhoven__
 
-  - pre-master, Information Security Technology
+  - Pre-master, Information Security Technology
   - Did not finish
 
 `2013-2017`
@@ -68,10 +72,15 @@ __HAN Nijmegen__
 - ICT
 - Switched to Fontys after first year
 
+## Languages
+
+ __Dutch__ Native
+
+ __English__ proficient
 
 ## Certificates
 
-**TOEFL iBT** Score: **113**
+**TOEFL iBT** (English proficiency) Score: **113**/120
 
 **Minor Embedded Systems - Fontys**
 
